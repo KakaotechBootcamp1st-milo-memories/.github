@@ -1,6 +1,6 @@
 # KakaotechBootcamp1st-milo-memories
 
-안녕하세요! milo.kim의 카카오테크 부트캠프 1기 학습 보관소입니다.
+안녕하세요! milo의 카카오테크 부트캠프 1기 학습 보관소입니다.
 
 ## 프로젝트 분류 체계
 
