@@ -1,2 +1,2 @@
 # -KakaotechBootcamp1st-milo-memories
- KakaotechBootcamp1st-milo-memories Organization의 소개입니다!
+카카오테크 부트캠프 기록
